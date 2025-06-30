@@ -1,0 +1,6 @@
+git init
+git add rename.py
+git commit -m "Initial release of Bengali CLI file renamer"
+git branch -M main
+git remote add origin https://github.com/USERNAME/papai-cli-renamer.git
+git push -u origin main
